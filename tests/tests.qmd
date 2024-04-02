@@ -2,7 +2,7 @@
 title: "Testing for 2020 US Cooperative Election Study"
 author: 
   - Yuanyi (Leo) Liu
-thanks: "The essay is available at: https://github.com/leoyliu/STA302-Mini-Essay-MRP"
+thanks: "The essay is available at: https://github.com/leoyliu/MRP-for-2020-US-Cooperative-Election-Study"
 date: today
 date-format: long
 format: pdf

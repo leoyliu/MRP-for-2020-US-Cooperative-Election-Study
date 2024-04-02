@@ -2,7 +2,7 @@
 title: "Datasheet for 2020 US Cooperative Election Study"
 author: 
   - Yuanyi (Leo) Liu
-thanks: "The essay is available at: https://github.com/leoyliu/STA302-Mini-Essay-MRP"
+thanks: "The essay is available at: https://github.com/leoyliu/MRP-for-2020-US-Cooperative-Election-Study"
 date: today
 date-format: long
 abstract: "The 2020 US Cooperative Election Voter File Dataset centralizes extensive voter data from across the United States. With approximately 250 million entries, this resource provides anonymized information on voter demographics, party affiliations, and historical voting behavior, all sourced from public records to ensure a representative overview. The dataset has been meticulously processed to enhance consistency and accessibility, facilitating its application in political campaign strategies, scholarly research, and policy development. Adhering to stringent ethical standards, it upholds data privacy and reliability, establishing itself as an essential tool for investigating electoral behaviors and fostering democratic participation."
